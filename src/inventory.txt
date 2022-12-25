@@ -1,0 +1,10 @@
+Strawberry,VegetablesFruitsCompartment,500
+Chocolate,SnacksCompartment,400
+Beef,MeatsCompartment,1000
+Soda,BeveragesCompartment,1500
+Steak,MeatsCompartment,500
+CocaCola,BeveragesCompartment,2000
+Banana,VegetablesFruitsCompartment,1000
+ChickenWing,MeatsCompartment,1000
+Chips,SnacksCompartment,300
+Tomato,VegetablesFruitsCompartment,1000
